@@ -5,7 +5,8 @@ This project uses KMeans Clustering to segment mall customers into meaningful gr
 The app provides an interactive experience where users can input their own information and discover which cluster they belong to, compare themselves to similar customers, and visually explore clustering results.
 
 ## 👉 Live App:
-Launch the Streamlit App (Replace with your actual link)
+https://mall-customer-segmentation-clustering-model.streamlit.app/
+
 
 ## 🚀 Features
 Interactive Prediction: Users input Age, Annual Income, and Spending Score to discover their customer cluster.
